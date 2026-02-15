@@ -1,0 +1,8 @@
+aiogram>=3.4.1,<4.0.0
+requests>=2.31.0
+gdown>=5.2.0
+yt-dlp>=2024.10.22
+pillow>=10.4.0
+reportlab>=4.2.0
+pypdf>=4.3.1
+mega.py>=1.0.8
